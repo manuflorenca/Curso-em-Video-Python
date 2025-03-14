@@ -1,3 +1,5 @@
+# Fazer o dobro, triplo e raiz quadrada de um numero
+
 n = float(input("Digite um número: "))
 
 dobro = n*2
